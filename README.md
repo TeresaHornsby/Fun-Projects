@@ -1,2 +1,2 @@
 # Fun-Projects
-A Place to Put Data Fun
+A few of my data cleaning, visualizations and machine learning projects
